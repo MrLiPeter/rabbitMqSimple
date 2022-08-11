@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auto_ack/auto_ack.iml" filepath="$PROJECT_DIR$/auto_ack/auto_ack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manual/manual.iml" filepath="$PROJECT_DIR$/manual/manual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message_receiver.iml" filepath="$PROJECT_DIR$/message_receiver.iml" />
+    </modules>
+  </component>
+</project>

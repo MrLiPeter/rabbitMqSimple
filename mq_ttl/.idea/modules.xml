@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/message_ttl/message_ttl.iml" filepath="$PROJECT_DIR$/message_ttl/message_ttl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq_ttl.iml" filepath="$PROJECT_DIR$/mq_ttl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queques_ttl/queques_ttl.iml" filepath="$PROJECT_DIR$/queques_ttl/queques_ttl.iml" />
+    </modules>
+  </component>
+</project>
